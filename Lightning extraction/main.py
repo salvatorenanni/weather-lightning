@@ -162,7 +162,7 @@ def getTile(cz, aDate):
                 os.remove(fileName)
 
 
-class GlobalMerca+meterstor(object):
+class GlobalMercator(object):
 
     def __init__(self, tileSize=256):
         self.tileSize = tileSize
