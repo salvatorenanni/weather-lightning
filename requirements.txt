@@ -1,0 +1,7 @@
+numpy==1.19.0
+netCDF4==1.5.4
+pandas==1.1.2
+xarray==0.16.0
+SQLAlchemy==1.3.20
+opencv-python==4.4.0.42
+requests==2.24.0
